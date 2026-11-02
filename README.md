@@ -1,6 +1,6 @@
 # Batch OCR Processor
 
-A clean, practical command‑line tool to OCR one or many documents at once.  
+Python CLI for automated batch OCR of PDFs and images, featuring parallel processing, multilingual text recognition, searchable PDF output, and CSV logging.
 It wraps the excellent [`ocrmypdf`](https://ocrmypdf.readthedocs.io/) tool under a friendly CLI.
 
 ## Why this?
