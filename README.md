@@ -1,4 +1,4 @@
-# OCR Converter
+# Batch OCR Processor
 
 A clean, practical command‑line tool to OCR one or many documents at once.  
 It wraps the excellent [`ocrmypdf`](https://ocrmypdf.readthedocs.io/) tool under a friendly CLI.
